@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Click or Drag PDF File to this area t_55d648</name>
+   <tag></tag>
+   <elementGuidId>97a478a6-2482-4b61-b7d1-069a96c65dfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.training-file-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach Files'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7c832a63-7174-43a5-a32b-a5c4d0e18d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>file-input</value>
+      <webElementGuid>7cc284f0-ec09-44c1-8cd8-549a1fca3349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>training-file-input</value>
+      <webElementGuid>9499493e-02d4-4e80-9beb-a99146d1a04a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Click or Drag PDF File to this area to upload </value>
+      <webElementGuid>5ea35fe8-787b-4030-bb8e-e572f1958bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;hold-transition skin-blue sidebar-mini&quot;]/app-root[1]/app-admin[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/app-training-create[1]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;training-file-input&quot;]</value>
+      <webElementGuid>9ca13b74-99dc-47f2-a336-9b584e2e6501</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach Files'])[1]/following::label[1]</value>
+      <webElementGuid>f2eb5bc2-9fbb-4a23-bce5-8e238fd1e0ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TUGIRIMANA JDD UPDATE1'])[1]/following::label[2]</value>
+      <webElementGuid>8f3c50b7-a6c6-4a33-99c1-2ed244c88f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attached file(s) to upload'])[1]/preceding::label[1]</value>
+      <webElementGuid>1340d4e7-0d62-4f08-8406-b371e7ee1113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>6de84c0d-e675-49db-b360-e07355ad9149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Click or Drag PDF File to this area to upload ' or . = ' Click or Drag PDF File to this area to upload ')]</value>
+      <webElementGuid>ce10d13e-7432-4651-95e0-44da34a601b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

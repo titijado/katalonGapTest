@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Trainings</name>
+   <tag></tag>
+   <elementGuidId>286854e0-d83a-4de3-a24b-ae5572f41173</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.treeview.menu-open > ul.treeview-menu > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Management'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c1802368-4ad5-4023-9702-d2b956aefef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/admin/training/list</value>
+      <webElementGuid>3eddc105-0668-4e69-b64e-a49669a0014a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/admin/training/list</value>
+      <webElementGuid>6f13528b-6552-423f-b7e6-8682a1c8dda1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trainings</value>
+      <webElementGuid>23a3cbe2-daf9-4fc4-ac17-2dc24f9cc76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;hold-transition skin-blue sidebar-mini&quot;]/app-root[1]/app-admin[1]/div[@class=&quot;wrapper&quot;]/app-asidenavbar[1]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview menu-open&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]</value>
+      <webElementGuid>763d0d76-6ea5-43ec-8ebe-21370065cdc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Management'])[1]/following::a[1]</value>
+      <webElementGuid>73f8905d-89fd-4b95-aee0-dd1da52682f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gaps'])[1]/following::a[2]</value>
+      <webElementGuid>39700bae-8301-4f3c-afe1-505256709c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Farm Visit'])[1]/preceding::a[1]</value>
+      <webElementGuid>b5e315bf-6f6b-4cd0-ac1d-d1748ef1685a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/admin/training/list')]</value>
+      <webElementGuid>0c0a7784-e4fc-4c4e-9faf-accd25f14fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li/a</value>
+      <webElementGuid>23530855-15ec-4b73-85a1-f589a0369623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/admin/training/list' and (text() = 'Trainings' or . = 'Trainings')]</value>
+      <webElementGuid>a3408ee3-c886-4030-ae9b-dd2b2f13aac0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
